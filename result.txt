@@ -1,0 +1,10 @@
+ID:2 | beanbag | Chance: 5.0
+ID:2 | beanbag | Chance: 5.0
+ID:6 | gun | Chance: 1.0
+ID:4 | doll | Chance: 3.0
+ID:1 | crib | Chance: 5.0
+ID:1 | crib | Chance: 5.0
+ID:3 | car | Chance: 4.0
+ID:5 | robot | Chance: 2.0
+ID:3 | car | Chance: 4.0
+ID:1 | crib | Chance: 5.0
